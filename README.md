@@ -3,8 +3,6 @@
 </div>
 <br />
 
-🔎 About: The main goal of this project was to practice data fetching and add a feature to search any user by name.
-
 ## 👀 Preview
 
 ![](./readme-files/preview.gif)
