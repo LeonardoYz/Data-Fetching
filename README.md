@@ -15,6 +15,5 @@
 - <strong>Typescript</strong>
 - Semantic <strong>HTML5</strong> markup
 - <strong>CSS</strong> custom properties
-- <strong>Sass</strong>
+- <strong>Styled components</strong>
 - Flexbox
-- <strong>CSS</strong> Grid
